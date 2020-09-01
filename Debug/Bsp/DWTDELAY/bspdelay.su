@@ -1,0 +1,3 @@
+bspdelay.c:49:6:CPU_TS_TmrInit	4	static
+bspdelay.c:66:10:CPU_TS_TmrRd	4	static
+bspdelay.c:80:6:CPU_TS_Tmr_Delay_US	32	static

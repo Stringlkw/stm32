@@ -1,0 +1,5 @@
+core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+core_cm3.h:1834:26:SysTick_Config	16	static
+bspsystick.c:28:6:SysTick_Init	8	static
+bspsystick.c:50:6:Delay_us	16	static
+bspsystick.c:66:6:TimingDelay_Decrement	4	static

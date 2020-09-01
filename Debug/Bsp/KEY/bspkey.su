@@ -1,0 +1,3 @@
+bspkey.c:67:6:BSP_KEY_Init	48	static
+bspkey.c:81:6:BSP_KEY_Config	8	static
+bspkey.c:87:9:BSP_KEY_Scan	16	static

@@ -1,0 +1,3 @@
+bspbeep.c:24:6:BSP_BEEP_Config	32	static
+bspbeep.c:37:6:BSP_BEEP_StartRing	8	static
+bspbeep.c:47:6:BSP_BEEP_StopRing	8	static
